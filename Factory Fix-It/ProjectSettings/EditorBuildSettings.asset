@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Cutscenes/Opening/OpeningScene1.unity
+    guid: d6959930ee376c74b998c39998bb0aac
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Cutscenes/Opening/OpeningScene2.unity
+    guid: 7ccd35ee5387dcf4aa0c40bcc1b8f930
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Cutscenes/Opening/OpeningScene3.unity
+    guid: 9f5e6b4f470f43f4d91a237e0d02f41b
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Cutscenes/Opening/OpeningScene4.unity
+    guid: d97bca020a5f3dc47ac5b55a99eeb3f2
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Cutscenes/Opening/OpeningScene5.unity
+    guid: 40f56f6e6410f56469d8248c2f553e4a
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Final/StartScene.unity
+    guid: 200e1b4157baccd41991489e51373fb1
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Final/GameScene.unity
+    guid: f799a9c93891c1c4a8839eba12bb3747
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Final/BossScene.unity
+    guid: 341199db0b66c654bb86edd80afdc900
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Cutscenes/Ending/EndingScene1.unity
+    guid: 159be499010709c4788f862faca130e6
+  - enabled: 1
+    path: Assets/Factory Fix-It/Scenes/Cutscenes/Ending/EndingScene2.unity
+    guid: cea25eebf8ba20f4484109c2011ef04f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

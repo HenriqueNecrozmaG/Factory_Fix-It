@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 0d988b3c264ac62428989112929da6eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8810034522756185479
+    second: "Jogue as caixas no boss para atordo\xE1-lo._0"
+  - first:
+      213: -6478740413403097688
+    second: "Jogue as caixas no boss para atordo\xE1-lo._1"
+  - first:
+      213: 6144680052300858407
+    second: "Jogue as caixas no boss para atordo\xE1-lo._2"
+  - first:
+      213: 5428874324753680610
+    second: "Jogue as caixas no boss para atordo\xE1-lo._3"
+  - first:
+      213: 8831627408472835760
+    second: "Jogue as caixas no boss para atordo\xE1-lo._4"
+  - first:
+      213: 6875671874395178742
+    second: "Jogue as caixas no boss para atordo\xE1-lo._5"
+  - first:
+      213: -2303105864202510573
+    second: "Jogue as caixas no boss para atordo\xE1-lo._6"
+  - first:
+      213: 8366754928781809284
+    second: "Jogue as caixas no boss para atordo\xE1-lo._7"
+  - first:
+      213: -821091715956721167
+    second: "Jogue as caixas no boss para atordo\xE1-lo._8"
+  - first:
+      213: 8570546963037784039
+    second: "Jogue as caixas no boss para atordo\xE1-lo._9"
+  - first:
+      213: 6614517242280380096
+    second: "Jogue as caixas no boss para atordo\xE1-lo._10"
+  - first:
+      213: 1540304410026824741
+    second: "Jogue as caixas no boss para atordo\xE1-lo._11"
+  - first:
+      213: -1383845912787069804
+    second: "Jogue as caixas no boss para atordo\xE1-lo._12"
+  - first:
+      213: -524831432624784409
+    second: "Jogue as caixas no boss para atordo\xE1-lo._13"
+  - first:
+      213: -4269149934817691220
+    second: "Jogue as caixas no boss para atordo\xE1-lo._14"
+  - first:
+      213: 7352867713375671935
+    second: "Jogue as caixas no boss para atordo\xE1-lo._15"
+  - first:
+      213: -5685523927218992403
+    second: "Jogue as caixas no boss para atordo\xE1-lo._16"
+  - first:
+      213: -7255041728016407579
+    second: "Jogue as caixas no boss para atordo\xE1-lo._17"
+  - first:
+      213: -5297614111995857189
+    second: "Jogue as caixas no boss para atordo\xE1-lo._18"
+  - first:
+      213: -1192414046506144154
+    second: "Jogue as caixas no boss para atordo\xE1-lo._19"
+  - first:
+      213: -2175660581805495595
+    second: "Jogue as caixas no boss para atordo\xE1-lo._20"
+  - first:
+      213: 2390874348032466358
+    second: "Jogue as caixas no boss para atordo\xE1-lo._21"
+  - first:
+      213: 7766689663803173720
+    second: "Jogue as caixas no boss para atordo\xE1-lo._22"
+  - first:
+      213: -5044777655369616827
+    second: "Jogue as caixas no boss para atordo\xE1-lo._23"
+  - first:
+      213: -2434026650776256934
+    second: "Jogue as caixas no boss para atordo\xE1-lo._24"
+  - first:
+      213: -4046967940378869893
+    second: "Jogue as caixas no boss para atordo\xE1-lo._25"
+  - first:
+      213: 8539472758859429703
+    second: "Jogue as caixas no boss para atordo\xE1-lo._26"
+  - first:
+      213: 8333884133974778829
+    second: "Jogue as caixas no boss para atordo\xE1-lo._27"
+  - first:
+      213: -5460243268028228069
+    second: "Jogue as caixas no boss para atordo\xE1-lo._28"
+  - first:
+      213: -6366522472854396306
+    second: "Jogue as caixas no boss para atordo\xE1-lo._29"
+  - first:
+      213: -721009251758787720
+    second: "Jogue as caixas no boss para atordo\xE1-lo._30"
+  - first:
+      213: 3975205893448318217
+    second: "Jogue as caixas no boss para atordo\xE1-lo._31"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d7fcb88b7834a70800000000000000
+      internalID: 8810034522756185479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5142b7be3e616a0800000000000000
+      internalID: -6478740413403097688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._2"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 28
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72442df93f9464550800000000000000
+      internalID: 6144680052300858407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._3"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e88e295f6c375b40800000000000000
+      internalID: 5428874324753680610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._4"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b680a6065e309a70800000000000000
+      internalID: 8831627408472835760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._5"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60871142b4b6f50800000000000000
+      internalID: 6875671874395178742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._6"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 34
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f171c3b69b900e0800000000000000
+      internalID: -2303105864202510573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._7"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486d9cc574fac1470800000000000000
+      internalID: 8366754928781809284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._8"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f932664f65ea94f0800000000000000
+      internalID: -821091715956721167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._9"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 34
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e78baedd03b0f670800000000000000
+      internalID: 8570546963037784039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._10"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c681daf26c7bcb50800000000000000
+      internalID: 6614517242280380096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._11"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524dd9533b2406510800000000000000
+      internalID: 1540304410026824741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._12"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 34
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494537869779bcce0800000000000000
+      internalID: -1383845912787069804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._13"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb07bb79c67b8f0800000000000000
+      internalID: -524831432624784409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._14"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93f42d0cee0c4c0800000000000000
+      internalID: -4269149934817691220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._15"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 34
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7612386a32aa0660800000000000000
+      internalID: 7352867713375671935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._16"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac0248c16f811b0800000000000000
+      internalID: -5685523927218992403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._17"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e322fabcf9e05b90800000000000000
+      internalID: -7255041728016407579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._18"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f36978081b76b0800000000000000
+      internalID: -5297614111995857189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._19"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ea0dc0eb1b37fe0800000000000000
+      internalID: -1192414046506144154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._20"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae9ad5a308ec1e0800000000000000
+      internalID: -2175660581805495595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._21"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd91195d871e2120800000000000000
+      internalID: 2390874348032466358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._22"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bafab7913d8cb60800000000000000
+      internalID: 7766689663803173720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._23"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542bdd863795df9b0800000000000000
+      internalID: -5044777655369616827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._24"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eb5aa38a9983ed0800000000000000
+      internalID: -2434026650776256934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._25"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb258991846d7c0800000000000000
+      internalID: -4046967940378869893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._26"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f0f8ea3d428670800000000000000
+      internalID: 8539472758859429703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._27"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3a4dc0777e7a370800000000000000
+      internalID: 8333884133974778829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._28"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e95f56da15934b0800000000000000
+      internalID: -5460243268028228069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._29"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62e8feca8195a7a0800000000000000
+      internalID: -6366522472854396306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._30"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 5
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b525d7e57ef5f0800000000000000
+      internalID: -721009251758787720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jogue as caixas no boss para atordo\xE1-lo._31"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 5
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90db604d2b4ca2730800000000000000
+      internalID: 3975205893448318217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Jogue as caixas no boss para atordo\xE1-lo._0": 8810034522756185479
+      "Jogue as caixas no boss para atordo\xE1-lo._1": -6478740413403097688
+      "Jogue as caixas no boss para atordo\xE1-lo._10": 6614517242280380096
+      "Jogue as caixas no boss para atordo\xE1-lo._11": 1540304410026824741
+      "Jogue as caixas no boss para atordo\xE1-lo._12": -1383845912787069804
+      "Jogue as caixas no boss para atordo\xE1-lo._13": -524831432624784409
+      "Jogue as caixas no boss para atordo\xE1-lo._14": -4269149934817691220
+      "Jogue as caixas no boss para atordo\xE1-lo._15": 7352867713375671935
+      "Jogue as caixas no boss para atordo\xE1-lo._16": -5685523927218992403
+      "Jogue as caixas no boss para atordo\xE1-lo._17": -7255041728016407579
+      "Jogue as caixas no boss para atordo\xE1-lo._18": -5297614111995857189
+      "Jogue as caixas no boss para atordo\xE1-lo._19": -1192414046506144154
+      "Jogue as caixas no boss para atordo\xE1-lo._2": 6144680052300858407
+      "Jogue as caixas no boss para atordo\xE1-lo._20": -2175660581805495595
+      "Jogue as caixas no boss para atordo\xE1-lo._21": 2390874348032466358
+      "Jogue as caixas no boss para atordo\xE1-lo._22": 7766689663803173720
+      "Jogue as caixas no boss para atordo\xE1-lo._23": -5044777655369616827
+      "Jogue as caixas no boss para atordo\xE1-lo._24": -2434026650776256934
+      "Jogue as caixas no boss para atordo\xE1-lo._25": -4046967940378869893
+      "Jogue as caixas no boss para atordo\xE1-lo._26": 8539472758859429703
+      "Jogue as caixas no boss para atordo\xE1-lo._27": 8333884133974778829
+      "Jogue as caixas no boss para atordo\xE1-lo._28": -5460243268028228069
+      "Jogue as caixas no boss para atordo\xE1-lo._29": -6366522472854396306
+      "Jogue as caixas no boss para atordo\xE1-lo._3": 5428874324753680610
+      "Jogue as caixas no boss para atordo\xE1-lo._30": -721009251758787720
+      "Jogue as caixas no boss para atordo\xE1-lo._31": 3975205893448318217
+      "Jogue as caixas no boss para atordo\xE1-lo._4": 8831627408472835760
+      "Jogue as caixas no boss para atordo\xE1-lo._5": 6875671874395178742
+      "Jogue as caixas no boss para atordo\xE1-lo._6": -2303105864202510573
+      "Jogue as caixas no boss para atordo\xE1-lo._7": 8366754928781809284
+      "Jogue as caixas no boss para atordo\xE1-lo._8": -821091715956721167
+      "Jogue as caixas no boss para atordo\xE1-lo._9": 8570546963037784039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

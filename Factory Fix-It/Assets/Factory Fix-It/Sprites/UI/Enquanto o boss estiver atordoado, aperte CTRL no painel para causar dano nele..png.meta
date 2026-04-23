@@ -1,0 +1,1946 @@
+fileFormatVersion: 2
+guid: 5563907e8a667884b80c33b5be532bf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2319206819355162551
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._0
+  - first:
+      213: 5249901861129792318
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._1
+  - first:
+      213: 5195082668785949916
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._2
+  - first:
+      213: -777527497065748063
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._3
+  - first:
+      213: -1160610269857055937
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._4
+  - first:
+      213: 5250548572524468298
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._5
+  - first:
+      213: -1002910221743805010
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._6
+  - first:
+      213: -4682554740063573874
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._7
+  - first:
+      213: 4597087345482133392
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._8
+  - first:
+      213: 6605176020167727598
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._9
+  - first:
+      213: -6212610176255880098
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._10
+  - first:
+      213: -3301855877660511394
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._11
+  - first:
+      213: -6641692692995598861
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._12
+  - first:
+      213: -8851924704093462109
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._13
+  - first:
+      213: 2129893775448478457
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._14
+  - first:
+      213: -185485935183866067
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._15
+  - first:
+      213: 2308865128104836879
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._16
+  - first:
+      213: -2157767835630218676
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._17
+  - first:
+      213: 132952210235450888
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._18
+  - first:
+      213: 6466322602236635595
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._19
+  - first:
+      213: 8882526072397878625
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._20
+  - first:
+      213: -575645375456687233
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._21
+  - first:
+      213: -1414896355652175349
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._22
+  - first:
+      213: -1965536073697373757
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._23
+  - first:
+      213: -7314597481060083759
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._24
+  - first:
+      213: 9132507409368139612
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._25
+  - first:
+      213: -2323070031115747006
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._26
+  - first:
+      213: 6801946623455740302
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._27
+  - first:
+      213: 927369094016850825
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._28
+  - first:
+      213: 5653152342143240695
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._29
+  - first:
+      213: -5904001988886474292
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._30
+  - first:
+      213: -4887322378893273465
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._31
+  - first:
+      213: -1766884927281414411
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._32
+  - first:
+      213: -8108513905518955818
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._33
+  - first:
+      213: -6720236141396298707
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._34
+  - first:
+      213: 8854530834266839527
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._35
+  - first:
+      213: -559605897140522709
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._36
+  - first:
+      213: -3918084585573860740
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._37
+  - first:
+      213: 3377563487747439667
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._38
+  - first:
+      213: -8264735859665048374
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._39
+  - first:
+      213: -5624422245688433850
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._40
+  - first:
+      213: 5002784972859215182
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._41
+  - first:
+      213: -6014232372912308125
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._42
+  - first:
+      213: -3194279103364223467
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._43
+  - first:
+      213: -3449399679816102273
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._44
+  - first:
+      213: -1326353609591503951
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._45
+  - first:
+      213: 1015572244543541072
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._46
+  - first:
+      213: -687869772280412124
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._47
+  - first:
+      213: 8881054149369268039
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._48
+  - first:
+      213: 3895560341749863159
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._49
+  - first:
+      213: -7650882726280495744
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._50
+  - first:
+      213: -5188933563884434705
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._51
+  - first:
+      213: -10914694746792751
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._52
+  - first:
+      213: 1267106998817603773
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._53
+  - first:
+      213: -50780807384234957
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._54
+  - first:
+      213: 9049080140495274405
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._55
+  - first:
+      213: 3849772425536459021
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._56
+  - first:
+      213: -4967116188745294809
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._57
+  - first:
+      213: -6941663956407228040
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._58
+  - first:
+      213: 4662170175338812252
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._59
+  - first:
+      213: -2819582336848998991
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._60
+  - first:
+      213: -8152343068895329270
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._61
+  - first:
+      213: 7247699321126911138
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._62
+  - first:
+      213: -2049991192905100268
+    second: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+      dano nele._63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 87
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9480cab7fa580dfd0800000000000000
+      internalID: -2319206819355162551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 87
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bad427de56bd840800000000000000
+      internalID: 5249901861129792318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 81
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc56cb9924a81840800000000000000
+      internalID: 5195082668785949916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a92c466cdaa535f0800000000000000
+      internalID: -777527497065748063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 87
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bff76db1fa4efe0800000000000000
+      internalID: -1160610269857055937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 87
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48514dab12bdd840800000000000000
+      internalID: 5250548572524468298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2a5b8772f412f0800000000000000
+      internalID: -1002910221743805010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88603de549340fb0800000000000000
+      internalID: -4682554740063573874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fe7e495922ccf30800000000000000
+      internalID: 4597087345482133392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 87
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee99609389c4aab50800000000000000
+      internalID: 6605176020167727598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e549a44e5ff58c9a0800000000000000
+      internalID: -6212610176255880098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e537280c2937d22d0800000000000000
+      internalID: -3301855877660511394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 87
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f590b65fa7f3d3a0800000000000000
+      internalID: -6641692692995598861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a121029165a72580800000000000000
+      internalID: -8851924704093462109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f21ce6aa17ee8d10800000000000000
+      internalID: 2129893775448478457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 86
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27d88256850d6df0800000000000000
+      internalID: -185485935183866067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 86
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fb9f2e99cba0020800000000000000
+      internalID: 2308865128104836879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c425f79f5911e02e0800000000000000
+      internalID: -2157767835630218676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ef2fa45758d100800000000000000
+      internalID: 132952210235450888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9e46d852efcb950800000000000000
+      internalID: 6466322602236635595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165db65b662154b70800000000000000
+      internalID: 8882526072397878625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bce47b495e208f0800000000000000
+      internalID: -575645375456687233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7b5fc2474d5ce0800000000000000
+      internalID: -1414896355652175349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 58
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c15d06da5309b4e0800000000000000
+      internalID: -1965536073697373757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7527a68545d7a90800000000000000
+      internalID: -7314597481060083759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57c20c4a1f2dbe70800000000000000
+      internalID: 9132507409368139612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 58
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2418df66d1cc2cfd0800000000000000
+      internalID: -2323070031115747006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e814f307a6e556e50800000000000000
+      internalID: 6801946623455740302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 55
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bdc80174daedc00800000000000000
+      internalID: 927369094016850825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98d9e7a18047e40800000000000000
+      internalID: 5653152342143240695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1d83bc875c01ea0800000000000000
+      internalID: -5904001988886474292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786df37c03ebc2cb0800000000000000
+      internalID: -4887322378893273465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 58
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe366e1583ca77e0800000000000000
+      internalID: -1766884927281414411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 58
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23a3d4095c87f80800000000000000
+      internalID: -8108513905518955818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f451b5dcecb2a0800000000000000
+      internalID: -6720236141396298707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 58
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9d73561ec91ea70800000000000000
+      internalID: 8854530834266839527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 58
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b9b6c661eb38f0800000000000000
+      internalID: -559605897140522709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 58
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7abfec04da20a9c0800000000000000
+      internalID: -3918084585573860740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 58
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cf385d8148fde20800000000000000
+      internalID: 3377563487747439667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._39
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 58
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc6b3a2682cd4d80800000000000000
+      internalID: -8264735859665048374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 58
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643afea54c902f1b0800000000000000
+      internalID: -5624422245688433850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d8fea4d667d6540800000000000000
+      internalID: 5002784972859215182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36048e78587298ca0800000000000000
+      internalID: -6014232372912308125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea58a5414aba3d0800000000000000
+      internalID: -3194279103364223467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e073454454120d0800000000000000
+      internalID: -3449399679816102273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 29
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3cdbd5b68d79de0800000000000000
+      internalID: -1326353609591503951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f83cf5399081e00800000000000000
+      internalID: 1015572244543541072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 29
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4284f7b26123476f0800000000000000
+      internalID: -687869772280412124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._48
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7470a2ce1b7df3b70800000000000000
+      internalID: 8881054149369268039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f29913cd7fcf0630800000000000000
+      internalID: 3895560341749863159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df0e152ba92d590800000000000000
+      internalID: -7650882726280495744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 29
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea01917a643df7b0800000000000000
+      internalID: -5188933563884434705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._52
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc19c8942939dff0800000000000000
+      internalID: -10914694746792751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db04fec1a1ba59110800000000000000
+      internalID: 1267106998817603773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._54
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334847eef179b4ff0800000000000000
+      internalID: -50780807384234957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a14346917ac49d70800000000000000
+      internalID: 9049080140495274405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 29
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01d132cf932d6530800000000000000
+      internalID: 3849772425536459021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c9ebba422411bb0800000000000000
+      internalID: -4967116188745294809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._58
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879e63009614aaf90800000000000000
+      internalID: -6941663956407228040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._59
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 29
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c539d7fb21b53b040800000000000000
+      internalID: 4662170175338812252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd462dadc4ded8d0800000000000000
+      internalID: -2819582336848998991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._61
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04406bfb2f0dde80800000000000000
+      internalID: -8152343068895329270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acfb92f120059460800000000000000
+      internalID: 7247699321126911138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41456321fd7fc83e0800000000000000
+      internalID: -2049991192905100268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enquanto o boss estiver atordoado, aperte CTRL no painel para causar
+        dano nele._64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fe9d18754abcf46ae07b8436b66fcd
+      internalID: 1543951198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._0: -2319206819355162551
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._1: 5249901861129792318
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._10: -6212610176255880098
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._11: -3301855877660511394
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._12: -6641692692995598861
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._13: -8851924704093462109
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._14: 2129893775448478457
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._15: -185485935183866067
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._16: 2308865128104836879
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._17: -2157767835630218676
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._18: 132952210235450888
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._19: 6466322602236635595
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._2: 5195082668785949916
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._20: 8882526072397878625
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._21: -575645375456687233
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._22: -1414896355652175349
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._23: -1965536073697373757
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._24: -7314597481060083759
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._25: 9132507409368139612
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._26: -2323070031115747006
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._27: 6801946623455740302
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._28: 927369094016850825
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._29: 5653152342143240695
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._3: -777527497065748063
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._30: -5904001988886474292
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._31: -4887322378893273465
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._32: -1766884927281414411
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._33: -8108513905518955818
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._34: -6720236141396298707
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._35: 8854530834266839527
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._36: -559605897140522709
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._37: -3918084585573860740
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._38: 3377563487747439667
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._39: -8264735859665048374
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._4: -1160610269857055937
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._40: -5624422245688433850
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._41: 5002784972859215182
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._42: -6014232372912308125
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._43: -3194279103364223467
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._44: -3449399679816102273
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._45: -1326353609591503951
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._46: 1015572244543541072
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._47: -687869772280412124
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._48: 8881054149369268039
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._49: 3895560341749863159
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._5: 5250548572524468298
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._50: -7650882726280495744
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._51: -5188933563884434705
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._52: -10914694746792751
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._53: 1267106998817603773
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._54: -50780807384234957
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._55: 9049080140495274405
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._56: 3849772425536459021
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._57: -4967116188745294809
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._58: -6941663956407228040
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._59: 4662170175338812252
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._6: -1002910221743805010
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._60: -2819582336848998991
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._61: -8152343068895329270
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._62: 7247699321126911138
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._63: -2049991192905100268
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._64: 1543951198
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._7: -4682554740063573874
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._8: 4597087345482133392
+      Enquanto o boss estiver atordoado, aperte CTRL no painel para causar dano nele._9: 6605176020167727598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

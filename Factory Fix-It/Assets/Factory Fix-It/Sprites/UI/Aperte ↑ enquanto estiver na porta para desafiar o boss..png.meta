@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 234068c68bea5d34c8a1082e9eba8e78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9030840686019627378
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._0"
+  - first:
+      213: -4329846663617360927
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._1"
+  - first:
+      213: -9046846266008371091
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._2"
+  - first:
+      213: 5574717037100208027
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._3"
+  - first:
+      213: -33371408896679300
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._4"
+  - first:
+      213: -588979963196117732
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._5"
+  - first:
+      213: 8600805523760620553
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._6"
+  - first:
+      213: 5996277076765834448
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._7"
+  - first:
+      213: -5267616233717667785
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._8"
+  - first:
+      213: 1943144404168745693
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._9"
+  - first:
+      213: 698713213870644999
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._10"
+  - first:
+      213: 4175399617725578073
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._11"
+  - first:
+      213: -1630992610266674856
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._12"
+  - first:
+      213: 988732621951240327
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._13"
+  - first:
+      213: 2831984147816104546
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._14"
+  - first:
+      213: 5434395347744271680
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._15"
+  - first:
+      213: 679486650722132409
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._16"
+  - first:
+      213: -8435235603639953893
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._17"
+  - first:
+      213: -5496163228690458022
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._18"
+  - first:
+      213: -8477884909445999832
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._19"
+  - first:
+      213: -2419814704518378598
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._20"
+  - first:
+      213: -5035316805659114865
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._21"
+  - first:
+      213: 2965373444928715305
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._22"
+  - first:
+      213: 1699256211836109266
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._23"
+  - first:
+      213: 1557366613135155191
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._24"
+  - first:
+      213: -2660674013112334762
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._25"
+  - first:
+      213: -4152257672351152056
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._26"
+  - first:
+      213: -2754560444482627169
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._27"
+  - first:
+      213: 2602743381336142941
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._28"
+  - first:
+      213: 732843194625991822
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._29"
+  - first:
+      213: 205540734589624680
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._30"
+  - first:
+      213: 8719511186092397748
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._31"
+  - first:
+      213: 915295568146837214
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._32"
+  - first:
+      213: 127908540940746030
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._33"
+  - first:
+      213: 6131976521784952250
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._34"
+  - first:
+      213: 3775966452346586816
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._35"
+  - first:
+      213: 4503467760733440889
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._36"
+  - first:
+      213: -7102310521583826329
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._37"
+  - first:
+      213: 5089134509492580962
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._38"
+  - first:
+      213: -8675080321217692057
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._39"
+  - first:
+      213: 1092663686768139011
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._40"
+  - first:
+      213: -8106069552059830618
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._41"
+  - first:
+      213: -6842760599656287293
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._42"
+  - first:
+      213: -4636033617264089257
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._43"
+  - first:
+      213: -1210006632562695823
+    second: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._44"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86b7a65e320ca280800000000000000
+      internalID: -9030840686019627378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 52
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb4d23666b49e3c0800000000000000
+      internalID: -4329846663617360927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._2"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608009d045237280800000000000000
+      internalID: -9046846266008371091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._3"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f0dafeb9f5d5d40800000000000000
+      internalID: 5574717037100208027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._4"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c722f0361e0798ff0800000000000000
+      internalID: -33371408896679300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._5"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 57
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d6fd118d583d7f0800000000000000
+      internalID: -588979963196117732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._6"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 58
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90428f90e033c5770800000000000000
+      internalID: 8600805523760620553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._7"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 57
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcf17f4b3e073350800000000000000
+      internalID: 5996277076765834448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._8"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7386d28c1faa5e6b0800000000000000
+      internalID: -5267616233717667785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._9"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 52
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd224c55a8f67fa10800000000000000
+      internalID: 1943144404168745693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._10"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 57
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f91a057f352b900800000000000000
+      internalID: 698713213870644999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._11"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 57
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bb5d184dff1f930800000000000000
+      internalID: 4175399617725578073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._12"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85984c1ccdc8d59e0800000000000000
+      internalID: -1630992610266674856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._13"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7888e35c41fa8bd00800000000000000
+      internalID: 988732621951240327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._14"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 57
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262cd14f39a3d4720800000000000000
+      internalID: 2831984147816104546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._15"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d255fa6c9da6b40800000000000000
+      internalID: 5434395347744271680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._16"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 57
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1a9ed32850e6900800000000000000
+      internalID: 679486650722132409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._17"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16105809e500fa80800000000000000
+      internalID: -8435235603639953893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._18"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 58
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a5756d9a4b9b3b0800000000000000
+      internalID: -5496163228690458022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._19"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 56
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82393d5b790885a80800000000000000
+      internalID: -8477884909445999832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._20"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 57
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b4ae2d8571b6ed0800000000000000
+      internalID: -2419814704518378598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._21"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8242232b06fe1ab0800000000000000
+      internalID: -5035316805659114865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._22"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 29
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3a5bdf6f172920800000000000000
+      internalID: 2965373444928715305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._23"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d10ed88588f49710800000000000000
+      internalID: 1699256211836109266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._24"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 23
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff59f0fea0ec9510800000000000000
+      internalID: 1557366613135155191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._25"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568359f413631bd0800000000000000
+      internalID: -2660674013112334762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._26"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488e9785a73066c0800000000000000
+      internalID: -4152257672351152056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._27"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 28
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99554abed5d5c9d0800000000000000
+      internalID: -2754560444482627169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._28"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d543a0eb05dce1420800000000000000
+      internalID: 2602743381336142941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._29"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 23
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84aeb3b0059b2a00800000000000000
+      internalID: 732843194625991822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._30"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 28
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8616618853a3ad200800000000000000
+      internalID: 205540734589624680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._31"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4151ec93de10970800000000000000
+      internalID: 8719511186092397748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._32"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edea1e34878c3bc00800000000000000
+      internalID: 915295568146837214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._33"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 28
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2df28ae32c66c100800000000000000
+      internalID: 127908540940746030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._34"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab507007828291550800000000000000
+      internalID: 6131976521784952250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._35"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 28
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c609e38b7de66430800000000000000
+      internalID: 3775966452346586816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._36"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc0f761188f7e30800000000000000
+      internalID: 4503467760733440889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._37"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 29
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0a74d5368f6d90800000000000000
+      internalID: -7102310521583826329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._38"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 28
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262bc7c7fdc30a640800000000000000
+      internalID: 5089134509492580962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._39"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 29
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e76df096ceb9780800000000000000
+      internalID: -8675080321217692057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._40"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b98cc75dbe92f00800000000000000
+      internalID: 1092663686768139011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._41"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae2dd0b0b4718f80800000000000000
+      internalID: -8106069552059830618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._42"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b2763d71a901a0800000000000000
+      internalID: -6842760599656287293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._43"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7576434ecff79afb0800000000000000
+      internalID: -4636033617264089257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Aperte \u2191 enquanto estiver na porta para desafiar o boss._44"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171eb3ae061353fe0800000000000000
+      internalID: -1210006632562695823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._0": -9030840686019627378
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._1": -4329846663617360927
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._10": 698713213870644999
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._11": 4175399617725578073
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._12": -1630992610266674856
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._13": 988732621951240327
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._14": 2831984147816104546
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._15": 5434395347744271680
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._16": 679486650722132409
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._17": -8435235603639953893
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._18": -5496163228690458022
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._19": -8477884909445999832
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._2": -9046846266008371091
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._20": -2419814704518378598
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._21": -5035316805659114865
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._22": 2965373444928715305
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._23": 1699256211836109266
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._24": 1557366613135155191
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._25": -2660674013112334762
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._26": -4152257672351152056
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._27": -2754560444482627169
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._28": 2602743381336142941
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._29": 732843194625991822
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._3": 5574717037100208027
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._30": 205540734589624680
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._31": 8719511186092397748
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._32": 915295568146837214
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._33": 127908540940746030
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._34": 6131976521784952250
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._35": 3775966452346586816
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._36": 4503467760733440889
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._37": -7102310521583826329
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._38": 5089134509492580962
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._39": -8675080321217692057
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._4": -33371408896679300
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._40": 1092663686768139011
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._41": -8106069552059830618
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._42": -6842760599656287293
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._43": -4636033617264089257
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._44": -1210006632562695823
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._5": -588979963196117732
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._6": 8600805523760620553
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._7": 5996277076765834448
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._8": -5267616233717667785
+      "Aperte \u2191 enquanto estiver na porta para desafiar o boss._9": 1943144404168745693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

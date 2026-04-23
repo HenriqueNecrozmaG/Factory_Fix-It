@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 0fc67bf6f0a175240bff9bd12d8a9a0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5359883782907693823
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_0"
+  - first:
+      213: 713678990844705033
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_1"
+  - first:
+      213: 4513342022836382340
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_2"
+  - first:
+      213: 6844370715590455159
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_3"
+  - first:
+      213: -7272839693349954951
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_4"
+  - first:
+      213: 7845100979171397230
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_5"
+  - first:
+      213: 1152814451413912066
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_6"
+  - first:
+      213: 6752721829225190377
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_7"
+  - first:
+      213: 2812083841494615972
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_8"
+  - first:
+      213: -5008068378240743546
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_9"
+  - first:
+      213: -8577161304081727480
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_10"
+  - first:
+      213: -4177666093106675251
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_11"
+  - first:
+      213: -7575287230810757915
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_12"
+  - first:
+      213: 3515081209759023871
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_13"
+  - first:
+      213: 4476311200451842753
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_14"
+  - first:
+      213: -3200965714536637520
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_15"
+  - first:
+      213: 7324090926562103454
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_16"
+  - first:
+      213: -4459960677831927499
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_17"
+  - first:
+      213: -1236417786513389519
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_18"
+  - first:
+      213: 5841645301579074456
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_19"
+  - first:
+      213: -9131863917617071619
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_20"
+  - first:
+      213: 7436248186655772992
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_21"
+  - first:
+      213: -7195278624235689155
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_22"
+  - first:
+      213: 9198386693842864945
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_23"
+  - first:
+      213: 3034072807933347506
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_24"
+  - first:
+      213: -8697582426471453639
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_25"
+  - first:
+      213: -3433393827172219020
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_26"
+  - first:
+      213: -1019427685903588029
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_27"
+  - first:
+      213: 5446915428415044483
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_28"
+  - first:
+      213: -2929685744201119747
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_29"
+  - first:
+      213: 5658966263993602803
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_30"
+  - first:
+      213: -8049698480563225619
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_31"
+  - first:
+      213: -3912136900248466595
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_32"
+  - first:
+      213: 7616588196012036054
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_33"
+  - first:
+      213: 261709576547288717
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_34"
+  - first:
+      213: 5079215402050922348
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_35"
+  - first:
+      213: 7526878112088595625
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_36"
+  - first:
+      213: -3397476356782761825
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_37"
+  - first:
+      213: -2754118777617232233
+    second: "Quando estiver na escada, aperte W ou \u2191 para subir_38"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f86ae81edd95b0800000000000000
+      internalID: -5359883782907693823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90935fcc24f77e900800000000000000
+      internalID: 713678990844705033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_2"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a610538ac92ae30800000000000000
+      internalID: 4513342022836382340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_3"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77feadd17e61cfe50800000000000000
+      internalID: 6844370715590455159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_4"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ad38105dea11b90800000000000000
+      internalID: -7272839693349954951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_5"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e849286c56fdc60800000000000000
+      internalID: 7845100979171397230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_6"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a867cb2ae9fff00800000000000000
+      internalID: 1152814451413912066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_7"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 34
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e35ef9e9bc76bd50800000000000000
+      internalID: 6752721829225190377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_8"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 34
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a707e2da57860720800000000000000
+      internalID: 2812083841494615972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_9"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68708180854cf7ab0800000000000000
+      internalID: -5008068378240743546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_10"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8008bf8dc3dc7f880800000000000000
+      internalID: -8577161304081727480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_11"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1ce2292d2f506c0800000000000000
+      internalID: -4177666093106675251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_12"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 34
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4e8ff266c2fd690800000000000000
+      internalID: -7575287230810757915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_13"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff246509cb318c030800000000000000
+      internalID: 3515081209759023871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_14"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2d80ff15d0f1e30800000000000000
+      internalID: 4476311200451842753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_15"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 34
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd6de54a2e393d0800000000000000
+      internalID: -3200965714536637520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_16"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 34
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90556c94e564a560800000000000000
+      internalID: 7324090926562103454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_17"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5391e95b4690b12c0800000000000000
+      internalID: -4459960677831927499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_18"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 34
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13805e0f29c57dee0800000000000000
+      internalID: -1236417786513389519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_19"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b43709371b11150800000000000000
+      internalID: 5841645301579074456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_20"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df93a3d462a154180800000000000000
+      internalID: -9131863917617071619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_21"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041924ba35cd23760800000000000000
+      internalID: 7436248186655772992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_22"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6876a63c352c90800000000000000
+      internalID: -7195278624235689155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_23"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b0f2186fb37af70800000000000000
+      internalID: 9198386693842864945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_24"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60a83c4213b1a20800000000000000
+      internalID: 3034072807933347506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_25"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c2d796ddafb4780800000000000000
+      internalID: -8697582426471453639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_26"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 5
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477816d41822a50d0800000000000000
+      internalID: -3433393827172219020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_27"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345a48bbbe34ad1f0800000000000000
+      internalID: -1019427685903588029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_28"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf54029b4579b40800000000000000
+      internalID: 5446915428415044483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_29"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7cd59765aa757d0800000000000000
+      internalID: -2929685744201119747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_30"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f21249a5dfa88e40800000000000000
+      internalID: 5658966263993602803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_31"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf60d81e9b94090800000000000000
+      internalID: -8049698480563225619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_32"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b0ef3773c45b9c0800000000000000
+      internalID: -3912136900248466595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_33"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df0bbf1c9e83b960800000000000000
+      internalID: 7616588196012036054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_34"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d864b682977c1a300800000000000000
+      internalID: 261709576547288717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_35"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6720f05f7ffc7640800000000000000
+      internalID: 5079215402050922348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_36"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac14ba83c7d47860800000000000000
+      internalID: 7526878112088595625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_37"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98dc2d014db9d0d0800000000000000
+      internalID: -3397476356782761825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Quando estiver na escada, aperte W ou \u2191 para subir_38"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e44ee409767c9d0800000000000000
+      internalID: -2754118777617232233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Quando estiver na escada, aperte W ou \u2191 para subir_0": -5359883782907693823
+      "Quando estiver na escada, aperte W ou \u2191 para subir_1": 713678990844705033
+      "Quando estiver na escada, aperte W ou \u2191 para subir_10": -8577161304081727480
+      "Quando estiver na escada, aperte W ou \u2191 para subir_11": -4177666093106675251
+      "Quando estiver na escada, aperte W ou \u2191 para subir_12": -7575287230810757915
+      "Quando estiver na escada, aperte W ou \u2191 para subir_13": 3515081209759023871
+      "Quando estiver na escada, aperte W ou \u2191 para subir_14": 4476311200451842753
+      "Quando estiver na escada, aperte W ou \u2191 para subir_15": -3200965714536637520
+      "Quando estiver na escada, aperte W ou \u2191 para subir_16": 7324090926562103454
+      "Quando estiver na escada, aperte W ou \u2191 para subir_17": -4459960677831927499
+      "Quando estiver na escada, aperte W ou \u2191 para subir_18": -1236417786513389519
+      "Quando estiver na escada, aperte W ou \u2191 para subir_19": 5841645301579074456
+      "Quando estiver na escada, aperte W ou \u2191 para subir_2": 4513342022836382340
+      "Quando estiver na escada, aperte W ou \u2191 para subir_20": -9131863917617071619
+      "Quando estiver na escada, aperte W ou \u2191 para subir_21": 7436248186655772992
+      "Quando estiver na escada, aperte W ou \u2191 para subir_22": -7195278624235689155
+      "Quando estiver na escada, aperte W ou \u2191 para subir_23": 9198386693842864945
+      "Quando estiver na escada, aperte W ou \u2191 para subir_24": 3034072807933347506
+      "Quando estiver na escada, aperte W ou \u2191 para subir_25": -8697582426471453639
+      "Quando estiver na escada, aperte W ou \u2191 para subir_26": -3433393827172219020
+      "Quando estiver na escada, aperte W ou \u2191 para subir_27": -1019427685903588029
+      "Quando estiver na escada, aperte W ou \u2191 para subir_28": 5446915428415044483
+      "Quando estiver na escada, aperte W ou \u2191 para subir_29": -2929685744201119747
+      "Quando estiver na escada, aperte W ou \u2191 para subir_3": 6844370715590455159
+      "Quando estiver na escada, aperte W ou \u2191 para subir_30": 5658966263993602803
+      "Quando estiver na escada, aperte W ou \u2191 para subir_31": -8049698480563225619
+      "Quando estiver na escada, aperte W ou \u2191 para subir_32": -3912136900248466595
+      "Quando estiver na escada, aperte W ou \u2191 para subir_33": 7616588196012036054
+      "Quando estiver na escada, aperte W ou \u2191 para subir_34": 261709576547288717
+      "Quando estiver na escada, aperte W ou \u2191 para subir_35": 5079215402050922348
+      "Quando estiver na escada, aperte W ou \u2191 para subir_36": 7526878112088595625
+      "Quando estiver na escada, aperte W ou \u2191 para subir_37": -3397476356782761825
+      "Quando estiver na escada, aperte W ou \u2191 para subir_38": -2754118777617232233
+      "Quando estiver na escada, aperte W ou \u2191 para subir_4": -7272839693349954951
+      "Quando estiver na escada, aperte W ou \u2191 para subir_5": 7845100979171397230
+      "Quando estiver na escada, aperte W ou \u2191 para subir_6": 1152814451413912066
+      "Quando estiver na escada, aperte W ou \u2191 para subir_7": 6752721829225190377
+      "Quando estiver na escada, aperte W ou \u2191 para subir_8": 2812083841494615972
+      "Quando estiver na escada, aperte W ou \u2191 para subir_9": -5008068378240743546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

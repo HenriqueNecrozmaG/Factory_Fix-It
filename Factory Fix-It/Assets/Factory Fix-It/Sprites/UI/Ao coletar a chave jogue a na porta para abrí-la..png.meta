@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: f860cad7d34ac6d4eb254ccf47e1816e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -382616957611984037
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._0"
+  - first:
+      213: 4874599989512468439
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._1"
+  - first:
+      213: -2184309432977773591
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._2"
+  - first:
+      213: -64841426664154815
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._3"
+  - first:
+      213: 486936821949372772
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._4"
+  - first:
+      213: 403049219073205941
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._5"
+  - first:
+      213: -7389757459063861459
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._6"
+  - first:
+      213: -5758932684674604571
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._7"
+  - first:
+      213: 1843718033121789333
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._8"
+  - first:
+      213: -2100656353127116792
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._9"
+  - first:
+      213: 3533907148053232970
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._10"
+  - first:
+      213: -2866822781828487042
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._11"
+  - first:
+      213: -3700970012547909601
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._12"
+  - first:
+      213: 3760707147517839128
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._13"
+  - first:
+      213: -1090266969667847094
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._14"
+  - first:
+      213: 7325185709131053544
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._15"
+  - first:
+      213: 7346640472089235072
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._16"
+  - first:
+      213: -627431589941984896
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._17"
+  - first:
+      213: -5683090955393585707
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._18"
+  - first:
+      213: -383137454538539370
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._19"
+  - first:
+      213: -8061302806531538940
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._20"
+  - first:
+      213: -7544217109869833736
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._21"
+  - first:
+      213: -7573864237489024819
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._22"
+  - first:
+      213: 571371080548986129
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._23"
+  - first:
+      213: 1040376993135823197
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._24"
+  - first:
+      213: 5409002713222768559
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._25"
+  - first:
+      213: -7771812695970471565
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._26"
+  - first:
+      213: 5679024153238443987
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._27"
+  - first:
+      213: 6724941077723678358
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._28"
+  - first:
+      213: -5089341206092859541
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._29"
+  - first:
+      213: 2343098382590436673
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._30"
+  - first:
+      213: -5227501994105855910
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._31"
+  - first:
+      213: -1405818386979515518
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._32"
+  - first:
+      213: -6248463491407508943
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._33"
+  - first:
+      213: -1432100561430473170
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._34"
+  - first:
+      213: 3582726126077002158
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._35"
+  - first:
+      213: -1711368663517987882
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._36"
+  - first:
+      213: -8412117545683606812
+    second: "Ao coletar a chave jogue a na porta para abr\xED-la._37"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3f7c77eba0baf0800000000000000
+      internalID: -382616957611984037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7730d1dde06a340800000000000000
+      internalID: 4874599989512468439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._2"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb23d7c426cfa1e0800000000000000
+      internalID: -2184309432977773591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._3"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14914f4e013a91ff0800000000000000
+      internalID: -64841426664154815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._4"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469995ca572f1c600800000000000000
+      internalID: 486936821949372772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._5"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b66bd9112be79500800000000000000
+      internalID: 403049219073205941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._6"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 33
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f843c5ebe427990800000000000000
+      internalID: -7389757459063861459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._7"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e165944c392410b0800000000000000
+      internalID: -5758932684674604571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._8"
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 34
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c43e58c3369910800000000000000
+      internalID: 1843718033121789333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._9"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 33
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800d0b43d28f8d2e0800000000000000
+      internalID: -2100656353127116792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._10"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 33
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d3de4e3d5fa0130800000000000000
+      internalID: 3533907148053232970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._11"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 34
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78ad177edff638d0800000000000000
+      internalID: -2866822781828487042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._12"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1875b5d16383acc0800000000000000
+      internalID: -3700970012547909601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._13"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 32
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817c210c937b03430800000000000000
+      internalID: 3760707147517839128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._14"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c3b92b7f79ed0f0800000000000000
+      internalID: -1090266969667847094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._15"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 28
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9368a879948a560800000000000000
+      internalID: 7325185709131053544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._16"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 33
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e036fc59284f560800000000000000
+      internalID: 7346640472089235072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._17"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 28
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08146a01b4aea47f0800000000000000
+      internalID: -627431589941984896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._18"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dda789e2ea9121b0800000000000000
+      internalID: -5683090955393585707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._19"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 33
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e351ad382deaaf0800000000000000
+      internalID: -383137454538539370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._20"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 33
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40004dddecf702090800000000000000
+      internalID: -8061302806531538940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._21"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d8c1728e8d4790800000000000000
+      internalID: -7544217109869833736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._22"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc09e63aa9a34e690800000000000000
+      internalID: -7573864237489024819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._23"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dad0378faede700800000000000000
+      internalID: 571371080548986129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._24"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d598954fc59207e00800000000000000
+      internalID: 1040376993135823197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._25"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa764ce3f43a01b40800000000000000
+      internalID: 5409002713222768559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._26"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712fc3a789f42490800000000000000
+      internalID: -7771812695970471565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._27"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d714ace062ffce40800000000000000
+      internalID: 5679024153238443987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._28"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6960729a74ac35d50800000000000000
+      internalID: 6724941077723678358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._29"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67b31633270f59b0800000000000000
+      internalID: -5089341206092859541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._30"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1456810909b548020800000000000000
+      internalID: 2343098382590436673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._31"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50aca202ae2477b0800000000000000
+      internalID: -5227501994105855910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._32"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2839f5910a78d7ce0800000000000000
+      internalID: -1405818386979515518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._33"
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a88a27f8ff849a0800000000000000
+      internalID: -6248463491407508943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._34"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269c418028202ce0800000000000000
+      internalID: -1432100561430473170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._35"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1c458fd6668b130800000000000000
+      internalID: 3582726126077002158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._36"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db764b844fff38e0800000000000000
+      internalID: -1711368663517987882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ao coletar a chave jogue a na porta para abr\xED-la._37"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2a2b859a7224b80800000000000000
+      internalID: -8412117545683606812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Ao coletar a chave jogue a na porta para abr\xED-la._0": -382616957611984037
+      "Ao coletar a chave jogue a na porta para abr\xED-la._1": 4874599989512468439
+      "Ao coletar a chave jogue a na porta para abr\xED-la._10": 3533907148053232970
+      "Ao coletar a chave jogue a na porta para abr\xED-la._11": -2866822781828487042
+      "Ao coletar a chave jogue a na porta para abr\xED-la._12": -3700970012547909601
+      "Ao coletar a chave jogue a na porta para abr\xED-la._13": 3760707147517839128
+      "Ao coletar a chave jogue a na porta para abr\xED-la._14": -1090266969667847094
+      "Ao coletar a chave jogue a na porta para abr\xED-la._15": 7325185709131053544
+      "Ao coletar a chave jogue a na porta para abr\xED-la._16": 7346640472089235072
+      "Ao coletar a chave jogue a na porta para abr\xED-la._17": -627431589941984896
+      "Ao coletar a chave jogue a na porta para abr\xED-la._18": -5683090955393585707
+      "Ao coletar a chave jogue a na porta para abr\xED-la._19": -383137454538539370
+      "Ao coletar a chave jogue a na porta para abr\xED-la._2": -2184309432977773591
+      "Ao coletar a chave jogue a na porta para abr\xED-la._20": -8061302806531538940
+      "Ao coletar a chave jogue a na porta para abr\xED-la._21": -7544217109869833736
+      "Ao coletar a chave jogue a na porta para abr\xED-la._22": -7573864237489024819
+      "Ao coletar a chave jogue a na porta para abr\xED-la._23": 571371080548986129
+      "Ao coletar a chave jogue a na porta para abr\xED-la._24": 1040376993135823197
+      "Ao coletar a chave jogue a na porta para abr\xED-la._25": 5409002713222768559
+      "Ao coletar a chave jogue a na porta para abr\xED-la._26": -7771812695970471565
+      "Ao coletar a chave jogue a na porta para abr\xED-la._27": 5679024153238443987
+      "Ao coletar a chave jogue a na porta para abr\xED-la._28": 6724941077723678358
+      "Ao coletar a chave jogue a na porta para abr\xED-la._29": -5089341206092859541
+      "Ao coletar a chave jogue a na porta para abr\xED-la._3": -64841426664154815
+      "Ao coletar a chave jogue a na porta para abr\xED-la._30": 2343098382590436673
+      "Ao coletar a chave jogue a na porta para abr\xED-la._31": -5227501994105855910
+      "Ao coletar a chave jogue a na porta para abr\xED-la._32": -1405818386979515518
+      "Ao coletar a chave jogue a na porta para abr\xED-la._33": -6248463491407508943
+      "Ao coletar a chave jogue a na porta para abr\xED-la._34": -1432100561430473170
+      "Ao coletar a chave jogue a na porta para abr\xED-la._35": 3582726126077002158
+      "Ao coletar a chave jogue a na porta para abr\xED-la._36": -1711368663517987882
+      "Ao coletar a chave jogue a na porta para abr\xED-la._37": -8412117545683606812
+      "Ao coletar a chave jogue a na porta para abr\xED-la._4": 486936821949372772
+      "Ao coletar a chave jogue a na porta para abr\xED-la._5": 403049219073205941
+      "Ao coletar a chave jogue a na porta para abr\xED-la._6": -7389757459063861459
+      "Ao coletar a chave jogue a na porta para abr\xED-la._7": -5758932684674604571
+      "Ao coletar a chave jogue a na porta para abr\xED-la._8": 1843718033121789333
+      "Ao coletar a chave jogue a na porta para abr\xED-la._9": -2100656353127116792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
